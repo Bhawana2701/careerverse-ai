@@ -68,3 +68,32 @@ CareerVerse AI unifies career discovery, learning, progress tracking, AI guidanc
 ## Long-Term Vision
 
 CareerVerse AI will evolve into a Career Operating System supporting millions of learners, thousands of careers, AI-powered mentoring, internships, scholarships, certifications, and personalized lifelong learning.
+
+## Future Scope
+
+CareerVerse AI aims to evolve into a comprehensive AI Career Operating System with advanced features including:
+
+### AI Career Mentor
+
+A real-time AI mentor that interacts naturally with users through voice and video, providing personalized career guidance similar to a human mentor.
+
+The AI mentor will be able to:
+
+- Conduct one-on-one mentoring sessions
+- Understand a user's long-term career goals
+- Answer career-related questions in natural language
+- Review resumes and portfolios
+- Suggest projects and certifications
+- Conduct mock technical and HR interviews
+- Track learning progress over time
+- Recommend next learning steps
+- Provide interview and communication feedback
+- Motivate users and help them stay accountable
+- Remember previous conversations to provide personalized guidance
+
+Future enhancements may include:
+- Voice-based conversations
+- Video avatar with facial expressions
+- Screen-sharing support for code reviews
+- Live coding interview simulations
+- Integration with calendars for scheduled mentoring sessions
