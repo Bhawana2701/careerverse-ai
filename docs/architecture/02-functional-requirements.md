@@ -123,18 +123,65 @@ Allow users to
 - Improve Resume with AI
 
 ---
+# AI Interview Preparation
 
-# Interview Preparation
+CareerVerse AI provides an AI-powered interview simulation platform.
 
-Support
+Features:
 
-- HR Interviews
-- Technical Interviews
-- Behavioral Interviews
-- Mock Interviews
-- AI Feedback
+## Interview Types
 
----
+- HR Interview
+- Technical Interview
+- Behavioral Interview
+- Case Study Interview
+- System Design Interview
+- Coding Interview
+- Managerial Interview
+
+## Interview Modes
+
+- Text Chat
+- Voice Interview
+- Video Interview (AI Avatar)
+- Live Coding Interview
+- Panel Interview Simulation
+
+## AI Interviewer
+
+The AI interviewer should:
+
+- Ask questions dynamically based on the user's resume and target role.
+- Adapt question difficulty based on previous answers.
+- Ask follow-up questions like a human interviewer.
+- Evaluate technical knowledge and communication skills.
+- Detect confidence, hesitation, and clarity (future enhancement).
+- Provide hints when appropriate (practice mode).
+- Generate a detailed interview report.
+
+## AI Feedback
+
+After each interview, provide:
+
+- Overall Score
+- Technical Skills Score
+- Communication Score
+- Problem Solving Score
+- Confidence Score
+- Strengths
+- Areas for Improvement
+- Suggested Learning Resources
+- Recommended Practice Questions
+
+## Future Enhancements
+
+- AI Video Interviewer
+- Facial Expression Analysis
+- Eye Contact Analysis
+- Speech Fluency Analysis
+- Body Language Feedback
+- Multi-round Interview Simulation
+- Company-specific Interview Preparation
 
 # Progress Tracking
 
